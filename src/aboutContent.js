@@ -1,0 +1,8 @@
+const aboutContent = {
+  title: "About Me",
+  text: `Designer audiovisuel passionné, rigoureux et créatif, titulaire d'une Licence en Design Visuel – spécialité Publicité Audiovisuelle, j'ai acquis une solide expérience pratique lors de mon stage chez MIM Production / Tymoo TV, où j'ai activement participé à la postproduction d'émissions télévisées. Mon rôle m'a permis de maîtriser des outils professionnels tels que Adobe Premiere Pro, After Effects, Photoshop et Audition, tout en développant une véritable sensibilité artistique et une capacité à raconter des histoires par l'image et le son.
+Durant cette expérience, j'ai contribué au montage de plusieurs épisodes de l'émission Tymoo TV, en assurant le rythme narratif, la cohérence visuelle et la qualité sonore. J'ai également été amené à créer des éléments graphiques animés, à corriger les pistes audio et à travailler en étroite collaboration avec l'équipe de production pour respecter les délais serrés.
+Curieux, autonome et rapide à apprendre, je suis toujours à la recherche de nouveaux défis pour affiner mes compétences techniques et artistiques. Mes qualités relationnelles et ma capacité à communiquer efficacement me permettent de m'intégrer facilement dans une équipe et de collaborer sur des projets variés. Je maîtrise également les outils de la suite Microsoft Office, ce qui me permet de gérer efficacement la partie organisationnelle et administrative des projets.
+Mon objectif est de contribuer à des projets visuellement impactants, porteurs de sens, et de continuer à évoluer dans un environnement stimulant, où la créativité et la qualité sont au cœur des préoccupations.`
+};
+export default aboutContent; 
